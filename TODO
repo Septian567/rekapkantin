@@ -13,4 +13,5 @@ TODOLIST -- membuat aplikasi rekap penghasilan kantin terintegrasi spreadsheet d
 - halaman uang dingin
 
 6. perbaiki akun yang login, tampilkan role -- SUCCESS
-7. tambahkan import riwayat omzet harian ke spreadsheet
+7. tambahkan import riwayat omzet harian ke spreadsheet -- SUCCESS
+8. perbaiki responsive supaya enak digunakan di android
