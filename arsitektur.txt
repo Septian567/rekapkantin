@@ -1,0 +1,8 @@
+halaman di aplikasi
+- login
+- rekap omzet harian
+- riwayat omzet harian
+- rekap modal dan omzet (harian dan mingguan dan bulanan)
+- riwayat selisih modal dan omzet
+- manajemen produk
+- saldo real harian dan riwayat saldo real harian

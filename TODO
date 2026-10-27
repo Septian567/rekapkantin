@@ -1,0 +1,16 @@
+TODOLIST -- membuat aplikasi rekap penghasilan kantin terintegrasi spreadsheet dan drive
+
+1. menginstal next js -- SUCCESS
+2. membuat halaman login -- SUCCESS
+3. login dengan akun dari supabase  -- SUCCESS
+4. buat halaman utama toko -- SUCCESS
+5. hubungkan tiap halaman ke API
+- halaman manajemen produk  -- SUCCESS
+- halaman rekap omzet harian  -- SUCCESS
+- halaman riwayat omzet harian -- SUCCESS
+- halaman rekap modal dan omzet -- SUCCESS
+- halaman riwayat modal dan omzet -- SUCCESS
+- halaman uang dingin
+
+6. perbaiki akun yang login, tampilkan role -- SUCCESS
+7. tambahkan import riwayat omzet harian ke spreadsheet
